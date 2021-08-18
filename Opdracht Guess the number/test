@@ -1,0 +1,28 @@
+// const nameUser = prompt("Welkom! Wat is je naam?")
+//   alert("Hey " + nameUser);
+
+// let guesNumber = prompt("Voer een nummer in van 0 tot 25 om te beginnen met raden");
+
+// let num1 = alert(Math.ceil(Math.random()));
+// console.log(num1);
+
+// if(guessNumber == num1 ){
+//  alert("Gefeliciteerd je hebt gewonnen!")
+// }else{
+//   alert("Dit is niet correct!");
+// }
+
+// let guessNumber2 = prompt("Voer nog een nummer in?");
+// console.log(num1);
+
+// let num2 = alert(Math.ceil(Math.random()));
+// console.log(num4);
+
+// if(guessNumber == num1 ){
+//   alert("Gefeliciteerd je hebt gewonnen!")
+//  }else{
+//    alert("Dit is niet correct!");
+//  }
+ 
+//  let guessNumber3 = prompt("Laatste poging!");
+//}
